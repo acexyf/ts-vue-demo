@@ -9,6 +9,10 @@ Vue.config.productionTip = false;
 // eslint-disable-next-line
 new VConsole();
 
+const myName = "Tom";
+
+console.log(myName);
+
 new Vue({
   router,
   store,
