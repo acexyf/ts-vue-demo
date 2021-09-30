@@ -7,7 +7,7 @@ import VConsole from "vconsole";
 Vue.config.productionTip = false;
 
 // eslint-disable-next-line
-new VConsole();
+// new VConsole();
 
 const myName = "Tom";
 
